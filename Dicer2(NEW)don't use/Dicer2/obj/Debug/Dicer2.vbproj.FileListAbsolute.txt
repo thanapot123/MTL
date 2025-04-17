@@ -1,0 +1,67 @@
+D:\00_Arnan\Dicer\Dicer2\Dicer2\obj\Debug\Dicer2.Form1.resources
+D:\00_Arnan\Dicer\Dicer2\Dicer2\obj\Debug\Dicer2.Resources.resources
+D:\00_Arnan\Dicer\Dicer2\Dicer2\obj\Debug\Dicer2.vbproj.GenerateResource.cache
+D:\00_Arnan\Dicer\Dicer2\Dicer2\bin\Debug\Dicer2.exe.config
+D:\00_Arnan\Dicer\Dicer2\Dicer2\bin\Debug\Dicer2.exe
+D:\00_Arnan\Dicer\Dicer2\Dicer2\bin\Debug\Dicer2.pdb
+D:\00_Arnan\Dicer\Dicer2\Dicer2\bin\Debug\Dicer2.xml
+D:\00_Arnan\Dicer\Dicer2\Dicer2\obj\Debug\Dicer2.exe
+D:\00_Arnan\Dicer\Dicer2\Dicer2\obj\Debug\Dicer2.xml
+D:\00_Arnan\Dicer\Dicer2\Dicer2\obj\Debug\Dicer2.pdb
+D:\00_Arnan\Dicer\Dicer2\Dicer2\obj\Debug\Dicer2.Insert.resources
+D:\00_Arnan\Dicer\Dicer2\Dicer2\obj\Debug\Dicer2.NG_form.resources
+D:\Dicer2\Dicer2\obj\Debug\Dicer2.Form1.resources
+D:\Dicer2\Dicer2\obj\Debug\Dicer2.Insert.resources
+D:\Dicer2\Dicer2\obj\Debug\Dicer2.Resources.resources
+D:\Dicer2\Dicer2\obj\Debug\Dicer2.NG_form.resources
+D:\Dicer2\Dicer2\obj\Debug\Dicer2.vbproj.GenerateResource.cache
+D:\Dicer2\Dicer2\obj\Debug\Dicer2.vbproj.CoreCompileInputs.cache
+D:\Dicer2\Dicer2\obj\Debug\Dicer2.exe
+D:\Dicer2\Dicer2\obj\Debug\Dicer2.xml
+D:\Dicer2\Dicer2\obj\Debug\Dicer2.pdb
+D:\Dicer2\Dicer2\bin\Debug\Dicer2.exe.config
+D:\Dicer2\Dicer2\bin\Debug\Dicer2.exe
+D:\Dicer2\Dicer2\bin\Debug\Dicer2.pdb
+D:\Dicer2\Dicer2\bin\Debug\Dicer2.xml
+D:\02_Q-time Dicer\Dicer2\Dicer2\bin\Debug\Dicer2.exe.config
+D:\02_Q-time Dicer\Dicer2\Dicer2\bin\Debug\Dicer2.exe
+D:\02_Q-time Dicer\Dicer2\Dicer2\bin\Debug\Dicer2.pdb
+D:\02_Q-time Dicer\Dicer2\Dicer2\bin\Debug\Dicer2.xml
+D:\02_Q-time Dicer\Dicer2\Dicer2\obj\Debug\Dicer2.Form1.resources
+D:\02_Q-time Dicer\Dicer2\Dicer2\obj\Debug\Dicer2.Insert.resources
+D:\02_Q-time Dicer\Dicer2\Dicer2\obj\Debug\Dicer2.Resources.resources
+D:\02_Q-time Dicer\Dicer2\Dicer2\obj\Debug\Dicer2.NG_form.resources
+D:\02_Q-time Dicer\Dicer2\Dicer2\obj\Debug\Dicer2.vbproj.GenerateResource.cache
+D:\02_Q-time Dicer\Dicer2\Dicer2\obj\Debug\Dicer2.vbproj.CoreCompileInputs.cache
+D:\02_Q-time Dicer\Dicer2\Dicer2\obj\Debug\Dicer2.exe
+D:\02_Q-time Dicer\Dicer2\Dicer2\obj\Debug\Dicer2.xml
+D:\02_Q-time Dicer\Dicer2\Dicer2\obj\Debug\Dicer2.pdb
+D:\02_Q-time Dicer\Dicer2\Dicer2\obj\Debug\Dicer2.vbproj.AssemblyReference.cache
+\\172.16.72.179\mt830\91909_Thanapot\Dicer2(NEW)don't use\Dicer2\bin\Debug\Dicer2.exe.config
+\\172.16.72.179\mt830\91909_Thanapot\Dicer2(NEW)don't use\Dicer2\bin\Debug\Dicer2.exe
+\\172.16.72.179\mt830\91909_Thanapot\Dicer2(NEW)don't use\Dicer2\bin\Debug\Dicer2.pdb
+\\172.16.72.179\mt830\91909_Thanapot\Dicer2(NEW)don't use\Dicer2\bin\Debug\Dicer2.xml
+\\172.16.72.179\mt830\91909_Thanapot\Dicer2(NEW)don't use\Dicer2\obj\Debug\Dicer2.vbproj.AssemblyReference.cache
+\\172.16.72.179\mt830\91909_Thanapot\Dicer2(NEW)don't use\Dicer2\obj\Debug\Dicer2.Form1.resources
+\\172.16.72.179\mt830\91909_Thanapot\Dicer2(NEW)don't use\Dicer2\obj\Debug\Dicer2.Insert.resources
+\\172.16.72.179\mt830\91909_Thanapot\Dicer2(NEW)don't use\Dicer2\obj\Debug\Dicer2.Resources.resources
+\\172.16.72.179\mt830\91909_Thanapot\Dicer2(NEW)don't use\Dicer2\obj\Debug\Dicer2.NG_form.resources
+\\172.16.72.179\mt830\91909_Thanapot\Dicer2(NEW)don't use\Dicer2\obj\Debug\Dicer2.vbproj.GenerateResource.cache
+\\172.16.72.179\mt830\91909_Thanapot\Dicer2(NEW)don't use\Dicer2\obj\Debug\Dicer2.vbproj.CoreCompileInputs.cache
+\\172.16.72.179\mt830\91909_Thanapot\Dicer2(NEW)don't use\Dicer2\obj\Debug\Dicer2.exe
+\\172.16.72.179\mt830\91909_Thanapot\Dicer2(NEW)don't use\Dicer2\obj\Debug\Dicer2.xml
+\\172.16.72.179\mt830\91909_Thanapot\Dicer2(NEW)don't use\Dicer2\obj\Debug\Dicer2.pdb
+D:\Dicer2(NEW)don't use\Dicer2\bin\Debug\Dicer2.exe.config
+D:\Dicer2(NEW)don't use\Dicer2\bin\Debug\Dicer2.exe
+D:\Dicer2(NEW)don't use\Dicer2\bin\Debug\Dicer2.pdb
+D:\Dicer2(NEW)don't use\Dicer2\bin\Debug\Dicer2.xml
+D:\Dicer2(NEW)don't use\Dicer2\obj\Debug\Dicer2.vbproj.AssemblyReference.cache
+D:\Dicer2(NEW)don't use\Dicer2\obj\Debug\Dicer2.Form1.resources
+D:\Dicer2(NEW)don't use\Dicer2\obj\Debug\Dicer2.Insert.resources
+D:\Dicer2(NEW)don't use\Dicer2\obj\Debug\Dicer2.Resources.resources
+D:\Dicer2(NEW)don't use\Dicer2\obj\Debug\Dicer2.NG_form.resources
+D:\Dicer2(NEW)don't use\Dicer2\obj\Debug\Dicer2.vbproj.GenerateResource.cache
+D:\Dicer2(NEW)don't use\Dicer2\obj\Debug\Dicer2.vbproj.CoreCompileInputs.cache
+D:\Dicer2(NEW)don't use\Dicer2\obj\Debug\Dicer2.exe
+D:\Dicer2(NEW)don't use\Dicer2\obj\Debug\Dicer2.xml
+D:\Dicer2(NEW)don't use\Dicer2\obj\Debug\Dicer2.pdb
